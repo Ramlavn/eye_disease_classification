@@ -1,0 +1,7 @@
+0 ARMD
+1 Diabetes
+2 Glaucoma
+3 Hypertension
+4 Normal
+5 Others
+6 Pathological Myopia
